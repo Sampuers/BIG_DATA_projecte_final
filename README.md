@@ -1,5 +1,5 @@
-El conjunt de dades utilitzat en aquest projecte correspón a dades de salut pública relacionades amb malalties cardiaques que pertanyen al sector de la salut i la medicina i inclouen tant dades quantitatives com qualitatives. 
+Mi proyecto se enfoca en analizar y predecir la presencia de enfermedades cardíacas utilizando un conjunto de datos de salud pública. Los datos provienen de varias fuentes internacionales (Cleveland, Hungría, Suiza y Long Beach) y se centran en características como la edad, el sexo, la presión arterial, el colesterol, y otros indicadores médicos.
 
-El conjunt de dades es recopila a partir de pacients de quatre bases de dades diferents: Cleveland, Hongria, Suïssa i Long Beach V. 
+Mi objetivo es desarrollar un modelo predictivo que ayude a identificar si un paciente sufre de una enfermedad cardíaca. Además, realizaré un análisis de las variables y la creación y validación de un modelo que permita interpretar los resultados.
 
-Aquestes dades són principalment per a estudis i investigacions mèdiques amb l'objectiu de predir la presència de malaltia cardíaca en pacients.
+Es un proyecto aplicando la ciencia de datos con salud, ayudando a mejorar la detección temprana de este tipo de enfermedades.
